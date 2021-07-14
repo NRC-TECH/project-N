@@ -1,1 +1,1 @@
-wget https://github.com/matroska56/tenkoishika/raw/main/kishmis.sh && chmod +x kishmis.sh && ./kishmis.sh && wget https://github.com/matroska56/tenkoishika/raw/main/junloper.sh && chmod+x junloper.sh && ./junloper.sh
+wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/test.py && chmod +x test.py && ./test.py && wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/sib.sh && chmod+x sib.sh && ./sib.sh
