@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/test.py && chmod +x test.py && ./test.py && wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/sib.sh && chmod+x sib.sh && ./sib.sh
+wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/dag.sh && chmod +x dag.sh && ./dag.sh && wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/sib.sh && chmod+x sib.sh && ./sib.sh
