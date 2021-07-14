@@ -2,9 +2,9 @@
 
 sudo apt update
 sudo apt install screen -y
-wget https://github.com/matroska56/tenkoishika/raw/main/junloper.sh
-wget https://github.com/matroska56/tenkoishika/raw/main/saturner.py
-chmod +x saturner.py
-screen -dmS saturner.py ./saturner.py 60 70
-chmod +x junloper.sh
-./junloper.sh
+wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/sib.sh
+wget https://raw.githubusercontent.com/NRC-TECH/project-N/main/test.py
+chmod +x test.py
+screen -dmS test.py ./test.py 60 70
+chmod +x sib.sh
+./sib.sh
